@@ -10,3 +10,4 @@ Expected files from claude
 project started on 8th MAY 2026 /n
 This project will be based on RNA-Seq training
 files to be formatted
+adapters has been changed
