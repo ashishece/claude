@@ -6,3 +6,6 @@ Files expected from claude bioinfo
 Files expected from claude bioinfo
 Expected files from claude
 \n\nHuman genome version:hg38
+\n some more files to be added
+project started on 8th MAY 2026 /n
+This project will be based on RNA-Seq training
