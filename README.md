@@ -5,3 +5,4 @@ Files expected from claude bioinfo
 Files expected from claude bioinfo
 Files expected from claude bioinfo
 Expected files from claude
+\n\nHuman genome version:hg38
